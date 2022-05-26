@@ -39,6 +39,8 @@ library(ggplot2)
 library(rstan)
 library(readbulk)
 library(here)
+
+
 options(mc.cores = parallel::detectCores())
 rstan_options(auto_write = TRUE)
 
