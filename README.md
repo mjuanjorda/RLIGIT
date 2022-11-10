@@ -1,5 +1,9 @@
 # Seventy years of tuna, billfish and sharks as sentinels of global ocean health
 
+MAIN SOURCE
+Cite this article as Juan-Jordá MJ, Murua H, Arrizabalaga H, Merino G, Pacoureau N, Dulvy NK. Science 378, eabj0211 (2022). DOI: 10.1126/science.abj0211
+READ THE FULL ARTICLE AT
+https://doi.org/10.1126/science.abj0211
 
 This Red List Index analysis published in Science (Juan-Jordá et al. 2022) develops a robust global indicator (the continuous Red List Index of oceanic predatory fishes) for monitoring ocean health in oceanic marine ecosystems & tracking global sustainability & biodiversity targets.
 
@@ -16,14 +20,3 @@ This folder contains the Rcode for calculating the extinction risk for 18 specie
 The folder also contains the R code for calculating the global Red List Index of oceanic predatory fishes. We calculated a continuous Red List Index for oceanic predatory fishes between 1950 and 2019 using the estimated extinction risk of the 18 species of tunas, billfishes, and sharks. 
 
 Output:This folder contains the estimated Red List categories between 1950 and 2009 for each population of tuna, billfish and shark, which are used to estimate calculate the global Red List Index of oceanic predatory species.
-
-
-MAIN SOURCE
-Cite this article as M.J. Juan-Jordá et al., Science 378, eabj0211 (2022).
-DOI: 10.1126/science.abj0211
-READ THE FULL ARTICLE AT
-https://doi.org/10.1126/science.abj0211
-
-
-
-
